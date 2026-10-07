@@ -3,46 +3,10 @@
     <title>Freedom News</title>
     <link href="https://freedomcommunications.github.io/FreedomNews/feed.xml" rel="self" />
     <link href="https://freedomcommunications.github.io/FreedomNews" />
-    <updated>2026-10-07T05:28:13-04:00</updated>
+    <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Dfeeney</name>
     </author>
     <id>https://freedomcommunications.github.io/FreedomNews</id>
 
-    <entry>
-        <title>World</title>
-        <author>
-            <name>Dfeeney</name>
-        </author>
-        <link href="https://freedomcommunications.github.io/FreedomNews/world/"/>
-        <id>https://freedomcommunications.github.io/FreedomNews/world/</id>
-
-        <updated>2026-10-07T05:28:13-04:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>State</title>
-        <author>
-            <name>Dfeeney</name>
-        </author>
-        <link href="https://freedomcommunications.github.io/FreedomNews/state/"/>
-        <id>https://freedomcommunications.github.io/FreedomNews/state/</id>
-
-        <updated>2026-10-07T05:28:07-04:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Local</title>
-        <author>
-            <name>Dfeeney</name>
-        </author>
-        <link href="https://freedomcommunications.github.io/FreedomNews/local-2/"/>
-        <id>https://freedomcommunications.github.io/FreedomNews/local-2/</id>
-
-        <updated>2026-10-07T05:27:59-04:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>

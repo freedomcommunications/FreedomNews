@@ -9,41 +9,5 @@
         "name": "Dfeeney"
     },
     "items": [
-        {
-            "id": "https://freedomcommunications.github.io/FreedomNews/world/",
-            "url": "https://freedomcommunications.github.io/FreedomNews/world/",
-            "title": "World",
-            "author": {
-                "name": "Dfeeney"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-10-07T05:28:13-04:00",
-            "date_modified": "2026-10-07T05:28:13-04:00"
-        },
-        {
-            "id": "https://freedomcommunications.github.io/FreedomNews/state/",
-            "url": "https://freedomcommunications.github.io/FreedomNews/state/",
-            "title": "State",
-            "author": {
-                "name": "Dfeeney"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-10-07T05:28:07-04:00",
-            "date_modified": "2026-10-07T05:28:07-04:00"
-        },
-        {
-            "id": "https://freedomcommunications.github.io/FreedomNews/local-2/",
-            "url": "https://freedomcommunications.github.io/FreedomNews/local-2/",
-            "title": "Local",
-            "author": {
-                "name": "Dfeeney"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-10-07T05:27:59-04:00",
-            "date_modified": "2026-10-07T05:27:59-04:00"
-        }
     ]
 }
