@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Freedom News",
+    "description": "",
+    "home_page_url": "https://freedomcommunications.github.io/FreedomNews",
+    "feed_url": "https://freedomcommunications.github.io/FreedomNews/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dfeeney"
+    },
+    "items": [
+        {
+            "id": "https://freedomcommunications.github.io/FreedomNews/freedom-news.html",
+            "url": "https://freedomcommunications.github.io/FreedomNews/freedom-news.html",
+            "title": "Freedom News",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Dfeeney"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-07T02:23:57-04:00",
+            "date_modified": "2026-10-07T02:45:29-04:00"
+        }
+    ]
+}

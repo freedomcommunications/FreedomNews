@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Freedom News</title>
+    <link href="https://freedomcommunications.github.io/FreedomNews/feed.xml" rel="self" />
+    <link href="https://freedomcommunications.github.io/FreedomNews" />
+    <updated>2026-10-07T02:45:29-04:00</updated>
+    <author>
+        <name>Dfeeney</name>
+    </author>
+    <id>https://freedomcommunications.github.io/FreedomNews</id>
+
+    <entry>
+        <title>Freedom News</title>
+        <author>
+            <name>Dfeeney</name>
+        </author>
+        <link href="https://freedomcommunications.github.io/FreedomNews/freedom-news.html"/>
+        <id>https://freedomcommunications.github.io/FreedomNews/freedom-news.html</id>
+
+        <updated>2026-10-07T02:23:57-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
