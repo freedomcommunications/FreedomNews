@@ -3,7 +3,7 @@
     <title>Freedom News</title>
     <link href="https://freedomcommunications.github.io/FreedomNews/feed.xml" rel="self" />
     <link href="https://freedomcommunications.github.io/FreedomNews" />
-    <updated>2026-10-07T03:44:07-04:00</updated>
+    <updated>2026-10-07T04:43:14-04:00</updated>
     <author>
         <name>Dfeeney</name>
     </author>
@@ -14,18 +14,11 @@
         <author>
             <name>Dfeeney</name>
         </author>
-        <link href="https://freedomcommunications.github.io/FreedomNews/freedom-news.html"/>
-        <id>https://freedomcommunications.github.io/FreedomNews/freedom-news.html</id>
+        <link href="https://freedomcommunications.github.io/FreedomNews/freedom-news-2/"/>
+        <id>https://freedomcommunications.github.io/FreedomNews/freedom-news-2/</id>
 
-        <updated>2026-10-07T02:23:57-04:00</updated>
+        <updated>2026-10-07T04:42:27-04:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    
-  </p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
 </feed>
